@@ -1,11 +1,16 @@
 _repo: The-history-of-the-condition-of-women-in-various-ages-and-nations-vol-2-of-2-b-Comprising-the__71194
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71194-h/images/cover.jpg
 creator:
   author:
     agent_name: Child, D. L.
     gutenberg_agent_id: '56113'
     url: http://www.gutenberg.org/2009/agents/56113
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71194#The-history-of-the-condition-of-women-in-various-ages-and-nations-vol-2-of-2-b-Comprising-the_
 gutenberg_issued: '2023-07-15'
 identifiers:
   gutenberg: '71194'
